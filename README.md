@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ridzCode21
 - 👀 I’m interested in ...Web Development And Building New Projects
 - 🌱 I’m currently learning ...Computer Science Engineering
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
